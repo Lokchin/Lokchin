@@ -22,6 +22,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lokchin&show_icons=true&locale=en&layout=compact" alt="lokchin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lokchin&show_icons=true&locale=en" alt="lokchin" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lokchin&show_icons=true&locale=en" alt="lokchin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lokchin&" alt="lokchin" /></p>
