@@ -1,6 +1,6 @@
 ![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
 
-<h1 align="center">👋🏻 Hi, I'm Bruno</h1>
+<h1 align="center">👋🏻 Hi, I'm Lok</h1>
 <h3 align="center">A developer student from Brazil</h3><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokchin&label=Profile%20views&color=0e75b6&style=flat" alt="lokchin" /> </p>
