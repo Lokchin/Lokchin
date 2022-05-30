@@ -7,8 +7,6 @@
 
 - 🌳 I’m currently learning **JavaScript, SQL**
 
-- 📫 How to contact me: **brunolokchin@outlook.com**
-
 - ⚡ Fun fact: **I'm an aircraft spotter photographer**
 
 <h3 align="left">Social:</h3>
