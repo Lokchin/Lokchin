@@ -11,7 +11,6 @@
 
 <h3 align="left">Social:</h3>
 <p align="left">
-<a href="https://wa.me/5527997348564" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="lokchin" height="30" width="40" /></a>
 <a href="https://instagram.com/lokchin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lokchin" height="30" width="40" /></a>
 </p>
 
