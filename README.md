@@ -5,7 +5,7 @@
 
 <h3 align="left">Contact:</h3>
 <p align="left">
-<a href="mailto:brunosl733@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lokchin" height="30" width="40" /></a>
+<a href="mailto:brunosl733@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlemessages.svg" alt="lokchin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
