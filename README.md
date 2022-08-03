@@ -1,17 +1,11 @@
-![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
-
 <h1 align="center">👋🏻 Hi, I'm Lok</h1>
 <h3 align="center">A developer student from Brazil</h3><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lokchin&label=Profile%20views&color=0e75b6&style=flat" alt="lokchin" /> </p>
+- 🌳 I’m currently learning **JavaScript, C, Java**
 
-- 🌳 I’m currently learning **JavaScript, SQL**
-
-- ⚡ Fun fact: **I'm an aircraft spotter photographer**
-
-<h3 align="left">Social:</h3>
+<h3 align="left">Contact:</h3>
 <p align="left">
-<a href="https://instagram.com/lokchin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lokchin" height="30" width="40" /></a>
+<a href="mailto:brunosl733@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lokchin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
